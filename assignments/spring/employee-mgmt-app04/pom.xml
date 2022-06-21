@@ -12,7 +12,7 @@
 		<javax.servlet-api-version>4.0.0</javax.servlet-api-version>
 		<jackson.library>2.9.5</jackson.library>
 		<slf4j-version>1.7.26</slf4j-version>
-		<mysql-version>5.1.46</mysql-version>
+		<mysql-version>8.0.28</mysql-version>
 		<slf4j-log4j-version>1.7.26</slf4j-log4j-version>		
 	</properties>
 
@@ -49,7 +49,7 @@
 		<dependency>
 		    <groupId>mysql</groupId>
 		    <artifactId>mysql-connector-java</artifactId>
-		    <version>8.0.17</version>
+		    <version>8.0.28</version>
 		</dependency>
         
         <!-- Logging -->
